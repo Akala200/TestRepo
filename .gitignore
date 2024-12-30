@@ -15,9 +15,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Dependency directories
-/.pnp/
-/.pnp.js
 
 # Next.js build output
 .next/
@@ -28,15 +25,6 @@ yarn-error.log*
 # dotenv environment variables file
 .env
 
-# TypeScript
-*.ts
-*.d.ts
-*.js
-*.js.map
-
-# JetBrains IDEs
-.idea/
-
 # VSCode settings
 .vscode/
 
@@ -45,10 +33,6 @@ yarn-error.log*
 
 # Windows files
 Thumbs.db
-
-# npm and yarn lock files
-package-lock.json
-yarn.lock
 
 # Docker related files
 .docker/
